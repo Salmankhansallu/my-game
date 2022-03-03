@@ -1,6 +1,8 @@
 import turtle
 import random
- 
+
+
+
 w = 500
 h = 500
 food_size = 10
@@ -128,3 +130,6 @@ screen.onkey(go_left, "Left")
  
 reset()
 turtle.done()
+
+
+
